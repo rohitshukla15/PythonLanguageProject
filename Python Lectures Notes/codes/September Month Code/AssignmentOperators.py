@@ -1,0 +1,15 @@
+x=5
+y=2
+print("Print The Value of x =" ,x)
+x+=3
+print("Print the Value of x+3 =",x)
+x-=3
+print("Print The Value Of x-3 =",x)
+x/=3
+print("print the value of x/3 =",x)
+x*=3
+print("print the value of x*3 =",x)
+x%=3
+print("print the value of x%3 =",x)
+x//=3
+print("print the value of x//3 =",x)
